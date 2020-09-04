@@ -27,7 +27,7 @@ namespace SampleOneClient
                 Telephone = 1111234,
                 Address ="Wuxi, JiangSu, China"
             }});
-
+            // Get one studentdto record info
             StudentDTO studentDTO = datas.FirstOrDefault();
             // Print studentdto infomation
             Console.WriteLine("======= Below is the class student dto information =======");
