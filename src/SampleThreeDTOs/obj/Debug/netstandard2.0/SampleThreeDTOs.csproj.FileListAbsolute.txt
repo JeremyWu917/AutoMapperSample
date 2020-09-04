@@ -1,0 +1,9 @@
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleThreeDTOs\bin\Debug\netstandard2.0\SampleThreeDTOs.deps.json
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleThreeDTOs\bin\Debug\netstandard2.0\SampleThreeDTOs.dll
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleThreeDTOs\bin\Debug\netstandard2.0\SampleThreeDTOs.pdb
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleThreeDTOs\obj\Debug\netstandard2.0\SampleThreeDTOs.csprojAssemblyReference.cache
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleThreeDTOs\obj\Debug\netstandard2.0\SampleThreeDTOs.AssemblyInfoInputs.cache
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleThreeDTOs\obj\Debug\netstandard2.0\SampleThreeDTOs.AssemblyInfo.cs
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleThreeDTOs\obj\Debug\netstandard2.0\SampleThreeDTOs.csproj.CoreCompileInputs.cache
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleThreeDTOs\obj\Debug\netstandard2.0\SampleThreeDTOs.dll
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleThreeDTOs\obj\Debug\netstandard2.0\SampleThreeDTOs.pdb
