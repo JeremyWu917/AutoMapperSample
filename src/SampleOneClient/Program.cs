@@ -11,7 +11,7 @@ namespace SampleOneClient
     {
         static void Main(string[] args)
         {
-            // Config map from student to studentdto 
+            // Config map and set mapping from student to studentdto 
             MapperConfiguration configuration = new MapperConfiguration(mp => mp.CreateMap<Student, StudentDTO>());
             // Create map
             var mapConfiguration = configuration.CreateMapper();

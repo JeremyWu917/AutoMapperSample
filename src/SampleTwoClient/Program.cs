@@ -9,7 +9,7 @@ namespace SampleTwoClient
     {
         static void Main(string[] args)
         {
-            // Create map config and set mapping manually
+            // Create map config and set mapping from student to studentdto manually
             MapperConfiguration mapperConfiguration = new MapperConfiguration(
                 mp => mp.CreateMap<Student, StudentDTO>().ForMember(stdto => stdto._id, st => st.MapFrom(p => p.Id > 0 ? 10 : p.Id)).ForMember(stdto => stdto._name, st => st.MapFrom(p => p.Name)).ForMember(stdto => stdto._age, st => st.MapFrom(p => p.Age)).ForMember(stdto => stdto._address, st => st.MapFrom(p => p.Address)));
             // Create mapper
