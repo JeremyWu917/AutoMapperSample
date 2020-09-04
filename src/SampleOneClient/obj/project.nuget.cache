@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BCF9PcZRvMOAtoRUWMoAZe67m3SCiBQYLnIN0lGFDauWzbdScteMTTdZFTUqYQAbepzaT53b5vhwdDEnS77UQw==",
+  "dgSpecHash": "NANBLdAtNCe2SqlaMiyWk65StQE3Dzpb35JENRA346LIwkmNj5bb3mbJoJjqfKTG2WFQRLigbOcvVT/SUL58Sg==",
   "success": true,
   "projectFilePath": "D:\\WorkSpace\\GitHub\\AutoMapperSample\\src\\SampleOneClient\\SampleOneClient.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.2\\microsoft.netcore.app.host.win-x64.3.1.2.nupkg.sha512"
   ],

@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSpace\\GitHub\\AutoMapperSample\\src\\SampleOneVM\\SampleOneVM.csproj",
-      "projectName": "SampleOneVM",
-      "projectPath": "D:\\WorkSpace\\GitHub\\AutoMapperSample\\src\\SampleOneVM\\SampleOneVM.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\GitHub\\AutoMapperSample\\src\\SampleOneDTOs\\SampleOneDTOs.csproj",
+      "projectName": "SampleOneDTOs",
+      "projectPath": "D:\\WorkSpace\\GitHub\\AutoMapperSample\\src\\SampleOneDTOs\\SampleOneDTOs.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpace\\GitHub\\AutoMapperSample\\src\\SampleOneVM\\obj\\",
+      "outputPath": "D:\\WorkSpace\\GitHub\\AutoMapperSample\\src\\SampleOneDTOs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

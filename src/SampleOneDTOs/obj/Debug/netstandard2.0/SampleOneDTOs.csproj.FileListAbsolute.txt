@@ -1,0 +1,8 @@
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleOneDTOs\bin\Debug\netstandard2.0\SampleOneDTOs.deps.json
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleOneDTOs\bin\Debug\netstandard2.0\SampleOneDTOs.dll
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleOneDTOs\bin\Debug\netstandard2.0\SampleOneDTOs.pdb
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleOneDTOs\obj\Debug\netstandard2.0\SampleOneDTOs.AssemblyInfoInputs.cache
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleOneDTOs\obj\Debug\netstandard2.0\SampleOneDTOs.AssemblyInfo.cs
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleOneDTOs\obj\Debug\netstandard2.0\SampleOneDTOs.csproj.CoreCompileInputs.cache
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleOneDTOs\obj\Debug\netstandard2.0\SampleOneDTOs.dll
+D:\WorkSpace\GitHub\AutoMapperSample\src\SampleOneDTOs\obj\Debug\netstandard2.0\SampleOneDTOs.pdb

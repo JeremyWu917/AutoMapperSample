@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aH+P/vspj4k/exl0AA558BkjaEFNkOmFOSQ+5vDwMQiQchHRPyFJGiPebpl5rMMG9l1ihNX3klSC96rTwU8sdQ==",
+  "dgSpecHash": "BTOsK9n2LZRMKBSntBlrePRymluGNej+B+9SRbT2iBuLr/6vq+85MxFaDNGjwqwnuv7hCQH3p3IBrda87A1gXA==",
   "success": true,
-  "projectFilePath": "D:\\WorkSpace\\GitHub\\AutoMapperSample\\src\\SampleOneVM\\SampleOneVM.csproj",
+  "projectFilePath": "D:\\WorkSpace\\GitHub\\AutoMapperSample\\src\\SampleOneDTOs\\SampleOneDTOs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

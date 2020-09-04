@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleOneModels", "SampleOneModels\SampleOneModels.csproj", "{E1BA238B-262B-4E68-A8E0-D5C057AD6696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleOneModels", "SampleOneModels\SampleOneModels.csproj", "{E1BA238B-262B-4E68-A8E0-D5C057AD6696}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleOneVM", "SampleOneVM\SampleOneVM.csproj", "{361AA39F-9B5E-4FD9-A8F5-D3F726364AAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleOneVM", "SampleOneVM\SampleOneVM.csproj", "{361AA39F-9B5E-4FD9-A8F5-D3F726364AAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleOneClient", "SampleOneClient\SampleOneClient.csproj", "{C85C1F1F-593A-45A6-A3D8-EC69A2A6534C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleOneClient", "SampleOneClient\SampleOneClient.csproj", "{C85C1F1F-593A-45A6-A3D8-EC69A2A6534C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleOneServices", "SampleOneServices\SampleOneServices.csproj", "{71EF7BBD-6F23-4C31-B62C-22C4D80B4CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleOneDTOs", "SampleOneDTOs\SampleOneDTOs.csproj", "{EE442016-1F00-47F3-9FEA-9597A7ED2AA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{C85C1F1F-593A-45A6-A3D8-EC69A2A6534C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C85C1F1F-593A-45A6-A3D8-EC69A2A6534C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C85C1F1F-593A-45A6-A3D8-EC69A2A6534C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EF7BBD-6F23-4C31-B62C-22C4D80B4CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EF7BBD-6F23-4C31-B62C-22C4D80B4CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EF7BBD-6F23-4C31-B62C-22C4D80B4CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EF7BBD-6F23-4C31-B62C-22C4D80B4CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE442016-1F00-47F3-9FEA-9597A7ED2AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE442016-1F00-47F3-9FEA-9597A7ED2AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE442016-1F00-47F3-9FEA-9597A7ED2AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE442016-1F00-47F3-9FEA-9597A7ED2AA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
