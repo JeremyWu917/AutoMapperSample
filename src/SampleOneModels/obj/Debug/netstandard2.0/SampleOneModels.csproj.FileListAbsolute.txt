@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneModels\bin\Debug\netstandard2.0\SampleOneModels.deps.json
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneModels\bin\Debug\netstandard2.0\SampleOneModels.dll
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneModels\bin\Debug\netstandard2.0\SampleOneModels.pdb
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneModels\obj\Debug\netstandard2.0\SampleOneModels.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneModels\obj\Debug\netstandard2.0\SampleOneModels.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneModels\obj\Debug\netstandard2.0\SampleOneModels.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneModels\obj\Debug\netstandard2.0\SampleOneModels.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneModels\obj\Debug\netstandard2.0\SampleOneModels.dll
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneModels\obj\Debug\netstandard2.0\SampleOneModels.pdb

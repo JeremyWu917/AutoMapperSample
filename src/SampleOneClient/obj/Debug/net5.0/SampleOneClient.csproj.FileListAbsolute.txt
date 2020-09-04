@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneClient\bin\Debug\net5.0\SampleOneClient.exe
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneClient\bin\Debug\net5.0\SampleOneClient.deps.json
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneClient\bin\Debug\net5.0\SampleOneClient.runtimeconfig.json
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneClient\bin\Debug\net5.0\SampleOneClient.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneClient\bin\Debug\net5.0\SampleOneClient.dll
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneClient\bin\Debug\net5.0\SampleOneClient.pdb
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneClient\obj\Debug\net5.0\SampleOneClient.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneClient\obj\Debug\net5.0\SampleOneClient.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneClient\obj\Debug\net5.0\SampleOneClient.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneClient\obj\Debug\net5.0\SampleOneClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneClient\obj\Debug\net5.0\SampleOneClient.dll
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneClient\obj\Debug\net5.0\SampleOneClient.pdb
+C:\Users\Administrator\Desktop\AutoMapperSample\SampleOneClient\obj\Debug\net5.0\SampleOneClient.genruntimeconfig.cache
