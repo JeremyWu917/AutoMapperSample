@@ -1,0 +1,3 @@
+﻿Explaination-
+This sample to describle the object to object mapping, and the object from database.
+And Using EF Core to View the datas.
